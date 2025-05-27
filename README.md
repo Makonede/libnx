@@ -1,6 +1,6 @@
 # libnx - Rust edition
 
-This mostly consists on [libnx](https://github.com/swicthbrew/libnx) raw bindings plus some high level implementations within modules.
+This mostly consists on [libnx](https://github.com/switchbrew/libnx) raw bindings plus some high level implementations within modules.
 
 As soon as the project gets bigger and more stable, more information and examples will be added here.
 
